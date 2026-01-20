@@ -54,7 +54,7 @@
 ## 使用方式（如有提供原始碼）
 
 ```bash
-python train_regressor.py
+python train_Regessor.py
 ```
 
 執行後將完成：
@@ -73,16 +73,19 @@ python train_regressor.py
 - 以及模型對應的分類預測結果
 - 每一列對應一筆測試樣本
 ### 1) 模型訓練的誤差（MAE)（Figure 1）
-![訓練結果可視化](images/accuracy.png)
+![訓練結果可視化](images/mae.png)
 
 **說明：**
 - 隨著 Epoch 增加，模型會反覆更新權重，以逐步降低誤差（MAE)
 
 ### 2) 均方誤差（MSE）（Figure 2）
-![訓練結果可視化](images/loss.png)
+![訓練結果可視化](images/mse.png)
 
 **說明：**
 - 模型透過反覆更新權重，使均方誤差（MSE）逐步降低
+
+### 3) 模型預測結果（Figure 3）
+![訓練結果可視化](images/regression_result.png)
 
 ---
 
