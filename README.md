@@ -85,7 +85,7 @@ python train_Regessor.py
 - 模型透過反覆更新權重，使均方誤差（MSE）逐步降低
 
 ### 3) 模型預測結果（Figure 3）
-![訓練結果可視化](images/regression_result.png)
+![訓練結果可視化](images/regression_results.png)
 
 ---
 
