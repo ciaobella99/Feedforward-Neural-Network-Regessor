@@ -1,6 +1,6 @@
 # Feedforward-Neural-Network-Regressor
 本專案實作一個 **前饋式神經網路（Feedforward Neural Network, FNN）回歸系統**，  
-針對給定的結構化資料進行訓練，並完成模型推論、結果輸出與完整技術文件整理。
+針對給定的結構化資料進行訓練，並完成模型設計及推論、結果輸出與完整技術文件整理。
 
 ---
 
